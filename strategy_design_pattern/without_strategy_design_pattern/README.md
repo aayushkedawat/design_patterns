@@ -38,4 +38,4 @@ This output works, but the duplication in code is a maintainability concern.
 
 ## 📌 Lesson
 
-We later refactor this using the **Strategy Pattern** to cleanly separate behaviors. See the [`with_strategy_design_patterns`](../with_strategy_design_patterns) folder.
+We later refactor this using the **Strategy Pattern** to cleanly separate behaviors. See the [`with_strategy_design_patterns`](../with_strategy_design_pattern) folder.

@@ -4,8 +4,8 @@ This directory demonstrates the **Strategy Design Pattern** using a simple vehic
 
 We provide two implementations:
 
-1. [`with_strategy_design_patterns`](./with_strategy_design_patterns) – Refactored version using the **Strategy Pattern**.
-2. [`without_strategy_design_patterns`](./without_strategy_design_patterns) – Original version with **code duplication** due to inheritance.
+1. [`with_strategy_design_patterns`](./with_strategy_design_pattern) – Refactored version using the **Strategy Pattern**.
+2. [`without_strategy_design_patterns`](./without_strategy_design_pattern) – Original version with **code duplication** due to inheritance.
 
 ## 📚 What You’ll Learn
 
